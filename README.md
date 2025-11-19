@@ -8,7 +8,7 @@
 ---
 
 ## 🧩 Hobbies
-- Always trying something new  
+- Always trying to learn something new 
 - Cooking  
 - Reading 
 - Traveling
