@@ -5,6 +5,7 @@
 - 🟢🟢🔴
 - Meets Strong Can't Be Fixed Yet
 - Enhanced Security & Performance
+- After finished install restart dev and Perform Action
 - Shop: Malak Al Khalij (Mangaf-Aziziya)
 - Whats App: +96597864724
 - All Kind Of Redmagic Mobile And Root Available
