@@ -1,7 +1,7 @@
 > Release Date: 25/11/2025
 > Source: Github
 # Changelog 
-- IB-KEYBOX V.2.4
+- IB-KEYBOX V.2.5
 - 🟢🟢🟢
 - Meets Strong Fixed
 - Enhanced Security & Performance
