@@ -2,8 +2,8 @@
 > Source: Github
 # Changelog 
 - IB-KEYBOX V.2.4
-- 🟢🟢🔴
-- Meets Strong Can't Be Fixed Yet
+- 🟢🟢🟢
+- Meets Strong Fixed
 - Enhanced Security & Performance
 - After finished install restart dev and Perform Action
 - Shop: Malak Al Khalij (Mangaf-Aziziya)
