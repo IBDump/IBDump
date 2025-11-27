@@ -9,4 +9,4 @@
 - Shop: Malak Al Khalij (Mangaf-Aziziya)
 - Whats App: +96597864724
 - All Kind Of Redmagic Mobile And Root Available
-- sha256:8b3d05732b3e6f4f6064008d3ac93269c4835fcd0c97508d273dd481132cf645
+- sha256:be60e27545c3787dfc853083e2796a216b4e38c7f6e6b4976ded8ef37956e286
