@@ -1,9 +1,9 @@
-> Release Date: 25/11/2025
+> Release Date: 17/12/2025
 > Source: Github
 # Changelog 
-- IB-KEYBOX V.2.5
-- 🟢🟢🟢
-- Meets Strong Fixed
+- IB-KEYBOX V.2.6
+- 🟢🟢🔴
+- Meets Strong 🔴 Don't Waste Time Until Next Update
 - Enhanced Security & Performance
 - After finished install restart dev and Perform Action
 - Shop: ملاك الخليخ للهواتف المنقف العزيزية
