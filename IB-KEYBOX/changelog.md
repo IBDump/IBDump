@@ -9,4 +9,4 @@
 - Shop: ملاك الخليخ للهواتف المنقف العزيزية
 - Whats App: +96566014467
 - All Kind Of Redmagic Mobile And Root Available
-- sha256:be60e27545c3787dfc853083e2796a216b4e38c7f6e6b4976ded8ef37956e286
+- sha256:c8dbe298f428b4b81d4751137c36ad55731aa5858fa7bcda9da87b31ced306aa
