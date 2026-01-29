@@ -1,7 +1,7 @@
-> Release Date: 02/01/2026
+> Release Date: 30/01/2026
 > Source: Github
 # Changelog 
-- IB-KEYBOX V.2.8
+- IB-KEYBOX V.2.9
 - 🟢🟢🟢
 - Meets Strong fixed 🟢 
 - Enhanced Security & Performance
@@ -9,4 +9,4 @@
 - Shop: ملاك الخليخ للهواتف المنقف العزيزية
 - Whats App: +96566014467
 - All Kind Of Redmagic Mobile And Root Available
-- sha256:d9e9bfcc7a6628c21abd972bbf65c92a5f392a8c56258d1d3e1ec899f2c43ff9
+- sha256:e7f52845f7510fba26a11b8afadc6c7df689d1847ca0862dd71ebcddb162e1cf
