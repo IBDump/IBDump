@@ -1,7 +1,7 @@
-> Release Date: 09.02.2026
+> Release Date: 24.02.2026
 > Source: Github
 # Changelog 
-- IB-KEYBOX V.3.0
+- IB-KEYBOX V.3.1
 - 🟢🟢🟢
 - Meets Strong fixed 🟢 
 - Enhanced Security & Performance
