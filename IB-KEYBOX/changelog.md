@@ -1,7 +1,7 @@
-> Release Date: 31.03.2026
+> Release Date: 18.04.2026
 > Source: Github
 # Changelog 
-- IB-KEYBOX V.3.3
+- Malak Store(Keybox) V.3.4
 - 🟢🟢🟢
 - Meets Strong fixed 🟢 
 - Enhanced Security & Performance
@@ -9,4 +9,4 @@
 - Shop: ملاك الخليخ للهواتف المنقف العزيزية
 - Whats App: +96566014467
 - All Kind Of Redmagic Mobile And accessories are available
-- sha256:42a4df3b73a74d11dbcaf677402e36f4468ae6150643645184948e342c4bf32f
+- sha256:409431b17ddd0a7b80a3e55c5328a0c6afb555d3801b8932c8d83d7d4153540e
