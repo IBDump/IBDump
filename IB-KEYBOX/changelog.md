@@ -1,7 +1,7 @@
-> Release Date: 18.04.2026
+> Release Date: 21.04.2026
 > Source: Github
 # Changelog 
-- Malak Store(Keybox) V.3.4
+- Malak Store(Keybox) V.3.5
 - 🟢🟢🟢
 - Meets Strong fixed 🟢 
 - Enhanced Security & Performance
@@ -9,4 +9,4 @@
 - Shop: ملاك الخليخ للهواتف المنقف العزيزية
 - Whats App: +96566014467
 - All Kind Of Redmagic Mobile And accessories are available
-- sha256:409431b17ddd0a7b80a3e55c5328a0c6afb555d3801b8932c8d83d7d4153540e
+- sha256:9638c0f809884687ece65259a83744ad560de63535152ac6153c0681155204db
