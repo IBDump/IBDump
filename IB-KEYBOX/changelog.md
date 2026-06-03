@@ -1,7 +1,7 @@
-> Release Date: 22.05.2026
+> Release Date: 03.06.2026
 > Source: Github
 # Changelog 
-- Malak Store(Keybox) V.3.8
+- Malak Store(Keybox) V.3.9
 - 🟢🟢🟢
 - Meets Strong fixed 🟢 
 - Enhanced Security & Performance
