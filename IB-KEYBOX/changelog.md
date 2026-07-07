@@ -1,8 +1,8 @@
-> Release Date: 25.06.2026
+> Release Date: 07.07.2026
 > Source: Github
 # Changelog 
-- Malak Store(Keybox) V.4.4
-- 🟢🟢
+- Malak Store(Keybox) V.4.5
+- 🟢🟢🟢
 - Meets Strong X waiting until next update
 - Enhanced Security & Performance
 - After finished install restart dev and Perform Action
